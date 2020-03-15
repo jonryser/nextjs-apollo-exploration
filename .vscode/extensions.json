@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bierner.markdown-preview-github-styles",
+    "davidanson.vscode-markdownlint",
+    "michelemelluso.code-beautifier",
+    "prisma.vscode-graphql",
+    "shardulm94.trailing-spaces",
+  ]
+}
