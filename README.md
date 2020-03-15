@@ -1,7 +1,8 @@
 # nextjs-apollo-exploration
 
-Exploring using Apollo (GraphQL) with NextJs.
-This app uses NextJs, React, and Apollo. It is written in Typescript.
+Exploring using Apollo (GraphQL) with NextJs.\
+This app uses NextJs, React, and Apollo. It is written in Typescript.\
+Most of this approach was borrowed from this wonderful article by [Tom Nagle](https://medium.com/@tomanagle) on [Medium - "Create a server-side rendering GraphQL client with Next.js and Apollo Client"](https://medium.com/@tomanagle/create-a-server-side-rendering-graphql-client-with-next-js-and-apollo-client-acd397f70c64)
 
 ## Setup
 
